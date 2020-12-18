@@ -1,0 +1,2 @@
+Notice how push returned the length? Handy! Also take note that arrays will always preserve ordering which means they will remember the order in which you added or defined things. Not everything in JavaScript preserves
+ordering so remember this special property of Arrays!
